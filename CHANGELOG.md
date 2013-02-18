@@ -1,3 +1,8 @@
+### sufianrhazi/html5-boilerplate
+
+* xhtml
+* removed jQuery, modernizr, apache, crossdomain.xml, other useless cruft
+
 ### HEAD
 
 * Update to jQuery 1.9.1
